@@ -27,6 +27,6 @@ app.listen(PORT, () => {
   serveur dn ligne sur: https://localhost:` + PORT)
 });
 
-module.export = app;
+module.exports = app;
 
 // end 
